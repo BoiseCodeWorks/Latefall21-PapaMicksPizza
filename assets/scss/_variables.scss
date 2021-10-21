@@ -1,13 +1,12 @@
-$body-bg: #e5e5e5;
-$primary: #3ba5dc;
-$secondary: #8392ab;
-$success: #00f867;
-$info: #cb0c9f;
-$warning: #fbcf33;
-$danger: #ea0606;
-$light: #e9ecef;
-$dark: #111927;
-$grey: #cbcbcb;
+$body-bg: #f2f2f2;
+
+$primary: #AA3535;
+$secondary: #a3a3a3;
+$danger: #EB5757;
+$success: #0C9200;
+$warning: #FF7F50;
+$info: #00C9BD;
+$dark: #272727;
 
 $font-sans-serif: Open Sans;
 $font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -21,7 +20,6 @@ $colors: (
   "warning": $warning,
   "info": $info,
   "dark": $dark,
-  "grey": $grey,
 );
 
 $color-ranges: (

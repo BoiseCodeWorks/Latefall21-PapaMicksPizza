@@ -1,1 +1,6 @@
 /* BASIC STYLES HERE */
+.pizza-text{
+  font-family: 'Pacifico', cursive;
+  color: white;
+  text-shadow: -4px 4px green;
+}
